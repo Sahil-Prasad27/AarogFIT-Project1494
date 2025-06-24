@@ -8,5 +8,5 @@ Fitness encompasses various aspects, including workout routines, nutrition, weig
 
 In this website you can calculate your BMI and Maintenance calorific value and get a specified diet plan and workout routine based on your maintenance calorie.
 
-This is how our website functions:
+This is how our website functions:-
 <img width="1438" alt="Screenshot 2023-09-27 at 2 50 09 PM" src="https://github.com/SahilNIT/AarogFIT-Project1494/assets/142675909/279d90e3-e8d1-48d1-9fb6-6ff150b9f090">
